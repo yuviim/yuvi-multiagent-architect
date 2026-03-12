@@ -1,5 +1,5 @@
-# 🤖 Yuvi's Multi-Agent AI Architect
-
+**Yuvi's Multi-Agent AI Architect
+**
 Built by Yuvaraj M — Senior ML Architect  
 Pattern: Multi-Agent Supervisor + Human-in-the-Loop (HITL)  
 Stack: LangGraph + LangChain + Anthropic Claude + Streamlit
